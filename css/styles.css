@@ -1,0 +1,48 @@
+body {
+background-color: #F3D5C0;
+}
+
+h1 {
+  color:#483434 ;
+}
+
+p {
+  color: #243825;
+}
+
+h2 {
+  color: #483434;
+}
+
+h3 {
+  color: #483434;
+}
+
+table {
+  text-align: center;
+  color:#243825;
+}
+
+ul {
+  color:#243825;
+}
+
+ol {
+  color:#243825;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #7d6b59;
+  border-width: 10px;
+  width: 100%;
+}
+
+li{
+ margin: 10px 0;
+}
+
+p {
+  line-height: 2.0;
+}
